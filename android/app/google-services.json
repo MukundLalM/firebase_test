@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641403351301",
+    "project_id": "fir-personal-83815",
+    "storage_bucket": "fir-personal-83815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641403351301:android:0c5b23830220b8a95f876c",
+        "android_client_info": {
+          "package_name": "com.cmlab.test.firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9NWPMmyBiFsSnsKnHiKuiY9se6V6wGNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
